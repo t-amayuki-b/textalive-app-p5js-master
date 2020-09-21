@@ -14,7 +14,7 @@ TextAlive App API で開発されたWebアプリケーションは、（特定�
 
 - [愛されなくても君がいる by ピノキオピー feat. 初音ミク](https://t-amayuki-b.github.io/textalive-app-p5js-master/?ta_song_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DygY2qObZv24)
 - [ブレス・ユア・ブレス by 和田たけあき feat. 初音ミク](https://t-amayuki-b.github.io/textalive-app-p5js-master/?ta_song_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da-Nf3QUFkOU)
-- [YY by 23.exe feat. 初音ミク](https://t-amayuki-b.github.io/textalive-app-script-tag-master/?ta_song_url=https%3A%2F%2Fwww.nicovideo.jp%2Fwatch%2Fsm35791694)
+- [YY by 23.exe feat. 初音ミク](https://t-amayuki-b.github.io/textalive-app-p5js-master/?ta_song_url=https%3A%2F%2Fwww.nicovideo.jp%2Fwatch%2Fsm35791694)
 
 ## 開発
 
